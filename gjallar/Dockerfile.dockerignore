@@ -1,0 +1,6 @@
+# Used instead of the repo .dockerignore for gjallar/Dockerfile (builds from source).
+tests/
+example/
+.tox/
+.venv/
+**/__pycache__

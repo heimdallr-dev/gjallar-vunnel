@@ -1,3 +1,5 @@
+> **This is the Gjallar fork of anchore/vunnel.** See [GJALLAR.md](GJALLAR.md) for what it adds (a self-hosted Grype DB builder). Everything below is the upstream README.
+
 # vunnel
 
 **A tool for fetching, transforming, and storing vulnerability data from a variety of sources.**
